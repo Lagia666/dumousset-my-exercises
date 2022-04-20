@@ -6,3 +6,4 @@ console.log(my_sum("bonjour",20));
 console.log(my_sum(10,"bonjour"));
 console.log(my_sum(10));
 
+console.log(my_display_alpha());
