@@ -1,0 +1,17 @@
+{
+  "name": "my_exercise_dumousset_valentin",
+  "version": "0.1.0",
+  "description": "Alpha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "epita"
+  ],
+  "author": "VD",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
