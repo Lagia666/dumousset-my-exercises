@@ -1,5 +1,5 @@
 {
-  "name": "my_exercise_dumousset_valentin",
+  "name": "dumousset-my-exercises",
   "version": "0.1.0",
   "description": "Alpha",
   "main": "index.js",
@@ -11,7 +11,5 @@
   ],
   "author": "VD",
   "license": "MIT",
-  "dependencies": {
-    "axios": "^0.26.1"
-  }
+  "type": "module"
 }
